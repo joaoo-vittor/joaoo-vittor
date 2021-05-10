@@ -43,8 +43,18 @@
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ### Top Languages:
+
+<br />
+<br />
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoo-vittor&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
