@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left"  width="45px" src="https://img2.gratispng.com/20171202/f59/linkedin-download-png-5a22d420d16602.1978549215122319688577.jpg" />](https://www.linkedin.com/in/jo%C3%A3o-vitor-barbosa-b04118197/)
+[<img align="left"  width="45px" src="https://w7.pngwing.com/pngs/273/291/png-transparent-linkedin-logo-blue-diagram-angle-area-linkedin-blue-angle-text-thumbnail.png" />](https://www.linkedin.com/in/jo%C3%A3o-vitor-barbosa-b04118197/)
 
 
 <br />
