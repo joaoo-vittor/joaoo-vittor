@@ -7,9 +7,10 @@
 
 ### Connect with me:
 
-[<img align="left"  width="45px" src="https://w7.pngwing.com/pngs/273/291/png-transparent-linkedin-logo-blue-diagram-angle-area-linkedin-blue-angle-text-thumbnail.png" />](https://www.linkedin.com/in/jo%C3%A3o-vitor-barbosa-b04118197/)
+[<img align="left"  width="35px" src="https://w7.pngwing.com/pngs/273/291/png-transparent-linkedin-logo-blue-diagram-angle-area-linkedin-blue-angle-text-thumbnail.png" />](https://www.linkedin.com/in/jo%C3%A3o-vitor-barbosa-b04118197/)
 
-
+<br />
+<br />
 <br />
 
 ### Languages and Tools:
