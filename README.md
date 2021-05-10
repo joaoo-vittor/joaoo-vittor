@@ -40,3 +40,10 @@
 
 <img align="left" alt="João's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joaoo-vittor&show_icons=true&hide_border=true&theme=dark" />
 
+<br />
+
+### Top Languages:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoo-vittor&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
