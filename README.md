@@ -1,4 +1,4 @@
-## João Vitor Silva - [Data Scientist] 👋
+## João Vitor Silva - 👋
 
 ### 🇧🇷 Eu sou um estudante de ciência da computação na Universidade Estadual da Paraíba (UEPB), e um futuro Cientista de Dados que adora alavancar soluções baseadas em dados que impactam os negócios e a sociedade!
 
