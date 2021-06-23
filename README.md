@@ -2,9 +2,9 @@
   <h2>João Vitor Silva - 👋</h2>
 </div>
 
-### 🇧🇷 Eu sou um estudante de ciência da computação na Universidade Estadual da Paraíba (UEPB), e um futuro Cientista de Dados que adora alavancar soluções baseadas em dados que impactam os negócios e a sociedade!
+### 🇧🇷 Eu sou um estudante de ciência da computação na Universidade Estadual da Paraíba (UEPB), e um futuro Cientista de Dados, apaixonado por programação, tecnologia e café.
 
-### 🇬🇧 I am a computer science student at the State University of Paraíba (UEPB), and a future Data Scientist who loves to leverage data-based solutions that impact business and society!
+### 🇬🇧 I am a computer science student at the State University of Paraíba (UEPB), and a future Data Scientist, passionate about programming, technology and coffee.
 
 
 ### Connect with me:
