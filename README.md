@@ -43,11 +43,11 @@
 
 
 <br />
-<br />
-<br />
+<!-- <br />
+<br /> -->
 
-<img align="left" alt="João's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joaoo-vittor&show_icons=true&hide_border=true&theme=dark" />
-
+<!-- <img align="left" alt="João's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joaoo-vittor&show_icons=true&hide_border=true&theme=dark" /> -->
+<!-- 
 <br />
 <br />
 <br />
@@ -56,7 +56,7 @@
 <br />
 <br />
 <br />
-<br />
+<br /> -->
 
 ### Top Languages:
 
