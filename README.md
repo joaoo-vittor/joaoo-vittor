@@ -7,7 +7,7 @@
 ### 🇬🇧 I am a computer science student at the State University of Paraíba (UEPB), and a future Data Scientist, passionate about programming, technology and coffee. -->
 
 
-### Connect with me:
+### Contato:
 
 [<img align="left"  width="50px" src="https://w7.pngwing.com/pngs/273/291/png-transparent-linkedin-logo-blue-diagram-angle-area-linkedin-blue-angle-text-thumbnail.png" />](https://www.linkedin.com/in/jo%C3%A3o-vitor-barbosa-b04118197/)
 
@@ -15,7 +15,7 @@
 <br />
 
 
-### Languages and Tools:
+### Linguagens e Ferramentas:
 
 <img align="left" alt="python" width="50px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 
@@ -50,7 +50,7 @@
 <br />
 <br />
 
-### I am studying:
+### Estou estudando:
 
 <!-- <img align="left" alt="João's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joaoo-vittor&show_icons=true&hide_border=true&theme=dark" /> -->
 
@@ -68,7 +68,7 @@
 <br />
 <br /> -->
 
-### Top Languages:
+### Estatística:
 
 <br />
 
