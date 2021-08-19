@@ -19,7 +19,7 @@
 
 <img align="left" alt="python" width="50px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 
-<img align="left" alt="flask" width="80px" src="https://danielmnunes.github.io/images/flask-logo.png" />
+<img align="left" alt="flask" width="80px" src="https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" />
 
 <img align="left" alt="visual studio code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
