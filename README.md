@@ -55,9 +55,9 @@
 <!-- <img align="left" alt="João's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joaoo-vittor&show_icons=true&hide_border=true&theme=dark" /> -->
 
 
-<img align="left" alt="React" src="https://www.luiztools.com.br/wp-content/uploads/2020/06/reactJS.png" width="100px">
+<img align="left" alt="React" src="https://www.luiztools.com.br/wp-content/uploads/2020/06/reactJS.png" width="100px" height="50px">
 
-<img align="left" alt="React" src="https://www.theconsolelogs.com/react/react-native.png" width="100px">
+<img align="left" alt="React" src="https://www.theconsolelogs.com/react/react-native.png" width="100px" height="50px">
 
 <br />
 <br />
