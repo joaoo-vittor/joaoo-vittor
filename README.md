@@ -57,6 +57,8 @@
 
 <img align="left" alt="React" src="https://www.luiztools.com.br/wp-content/uploads/2020/06/reactJS.png" width="100px">
 
+<img align="left" alt="React" src="https://www.theconsolelogs.com/react/react-native.png" width="100px">
+
 <br />
 <br />
 <br />
