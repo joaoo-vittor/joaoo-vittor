@@ -25,6 +25,10 @@
 
 <img align="left" alt="javaScript" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" width="50px">
 
+<img align="left" alt="Node.js" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="50px">
+
+<img align="left" alt="TypeScript" src="https://raw.githubusercontent.com/rmolinamir/typescript-cheatsheet/master/TypeScript.png" width="50px">
+
 <!-- [<img align="left" alt="Scikit-learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />](https://scikit-learn.org/stable/) -->
 
 <!-- <img align="left" alt="Azure" width="26px" src="https://www.parkmycloud.com/wp-content/uploads/2018/02/Azure_.png" />
@@ -55,7 +59,11 @@
 <!-- <img align="left" alt="João's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joaoo-vittor&show_icons=true&hide_border=true&theme=dark" /> -->
 
 
-<img align="left" alt="React" src="https://www.luiztools.com.br/wp-content/uploads/2020/06/reactJS.png" width="100px" height="50px">
+<!-- <img align="left" alt="React" src="https://www.luiztools.com.br/wp-content/uploads/2020/06/reactJS.png" width="100px" height="50px"> -->
+
+<!-- <img align="left" alt="Microservice" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png" width="100px" height="50px"> -->
+
+<img align="left" alt="RabbitMQ" src="https://www.freebsdnews.com/wp-content/uploads/rabbitmq-logo-1.png" width="100px" height="50px">
 
 <img align="left" alt="React" src="https://www.theconsolelogs.com/react/react-native.png" width="100px" height="50px">
 
