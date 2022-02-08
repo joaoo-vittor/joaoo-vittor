@@ -63,7 +63,7 @@
 
 <!-- <img align="left" alt="Microservice" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png" width="100px" height="50px"> -->
 
-<img align="left" alt="RabbitMQ" src="https://www.freebsdnews.com/wp-content/uploads/rabbitmq-logo-1.png" width="100px" height="50px">
+<!-- <img align="left" alt="RabbitMQ" src="https://www.freebsdnews.com/wp-content/uploads/rabbitmq-logo-1.png" width="100px" height="50px"> -->
 
 <img align="left" alt="React" src="https://www.theconsolelogs.com/react/react-native.png" width="100px" height="50px">
 
